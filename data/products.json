@@ -1,0 +1,8 @@
+[
+  {"id":1,"name":"Aura Wireless Headphones","category":"Audio","price":79,"image":"images/headphones.svg","description":"Comfortable over-ear headphones for music, focus, and online meetings."},
+  {"id":2,"name":"TypePro Mechanical Keyboard","category":"Workspace","price":99,"image":"images/keyboard.svg","description":"A compact mechanical keyboard with a smooth, satisfying typing feel."},
+  {"id":3,"name":"Mini Wireless Earbuds","category":"Audio","price":49,"image":"images/earbuds.svg","description":"Pocket-sized earbuds for calls, podcasts, and music on the go."},
+  {"id":4,"name":"Focus HD Webcam","category":"Workspace","price":65,"image":"images/webcam.svg","description":"A clear and simple webcam for online classes and video meetings."},
+  {"id":5,"name":"Glide Wireless Mouse","category":"Workspace","price":39,"image":"images/mouse.svg","description":"An ergonomic wireless mouse that keeps your desk tidy."},
+  {"id":6,"name":"Glow LED Desk Lamp","category":"Lifestyle","price":55,"image":"images/lamp.svg","description":"A flexible desk lamp with soft light for late-night reading and studying."}
+]
